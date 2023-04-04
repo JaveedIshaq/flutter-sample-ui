@@ -3,7 +3,7 @@
 Flutter Sample UI Layouts
 <img src="https://user-images.githubusercontent.com/48018942/111353594-75464080-86ab-11eb-9379-ab07031c1e54.png" height="250" width="450" />
 
-[![Repo](https://img.shields.io/badge/-Awesome-181717?style=flat-square&logo=github)](https://github.com/JaveedIshaq/flutter-sample-ui) [![Flutter](https://img.shields.io/badge/-Flutter-46d1fd?style=flat-square&logo=flutter)](https://flutter.dev/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JaveedIshaq/flutter-sample-ui&count_bg=%231182C2&title_bg=%23585858&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Repo](https://img.shields.io/badge/-Awesome-181717?style=flat-square&logo=github)](https://github.com/JaveedIshaq/flutter-sample-ui) [![Flutter](https://img.shields.io/badge/-Flutter-46d1fd?style=flat-square&logo=flutter)](https://flutter.dev/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaveedIshaq%2Fflutter-sample-ui&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
