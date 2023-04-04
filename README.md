@@ -20,8 +20,9 @@ Here is a curated list of a few awesome Flutter UI design templates to integrate
  3. [Food Delivery app UI](https://github.com/JaveedIshaq/food-delivery-app-ui)
  4. [Flutter Login App UI](hhttps://github.com/JaveedIshaq/baking_lessons_login_ui)
  5. [Lottery App UI](https://github.com/JaveedIshaq/flutter_lottery_app_ui)
- 6. [Chat Ui](https://github.com/JaveedIshaq/flutter-sample-chat-ui)
+ 6. [Flutter Chat App](https://github.com/JaveedIshaq/flutter-chat-feed-app)
  7. [Flutter Login Sign Up UI](https://github.com/JaveedIshaq/flutter_ui_samples/tree/master/login_signup_ui)
+ 8. [Job App UI ](https://github.com/JaveedIshaq/flutter-job-portal)
 
 
 </br>
@@ -76,7 +77,7 @@ Here is a curated list of a few awesome Flutter UI design templates to integrate
 A Flutter Sample Chat UI View
 
 
-<a href="https://github.com/JaveedIshaq/flutter-sample-chat-ui"><img src="https://raw.githubusercontent.com/JaveedIshaq/flutter-sample-chat-ui/master/chatui-screenshot.png" heigth="400" width="250"/></a>
+<a href="https://github.com/JaveedIshaq/flutter-chat-feed-app"><img src="https://github.com/JaveedIshaq/flutter-chat-feed-app/raw/master/screenshots/chat.jpeg?raw=true" heigth="400" width="250"/></a>
 
 
 </br>
@@ -87,6 +88,16 @@ A Flutter Sample Chat UI View
 
 
 <a href="https://github.com/JaveedIshaq/flutter_ui_samples/tree/master/login_signup_ui"><img src="https://github.com/JaveedIshaq/flutter_ui_samples/raw/master/login_signup_ui/screenshots/welcome_screen.jpg" heigth="400" width="250"/></a>
+
+
+</br>
+
+### 8. Flutter Job App  UI 🎂 
+
+A Flutter Sample Chat UI View
+
+
+<a href="https://github.com/JaveedIshaq/flutter-job-portal"><img src="https://raw.githubusercontent.com/JaveedIshaq/flutter-job-portal/master/Screenshot_20201003-173614.jpg" heigth="400" width="250"/></a>
 
 
 </br>
